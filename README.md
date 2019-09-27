@@ -1,0 +1,1 @@
+LoopMediaGroup maven repository for android platform SDK release candidates
