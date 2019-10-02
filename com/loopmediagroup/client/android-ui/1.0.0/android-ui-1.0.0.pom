@@ -36,7 +36,7 @@
     <dependency>
       <groupId>com.loopmediagroup.client</groupId>
       <artifactId>sdk</artifactId>
-      <version>1.0.0-rc.600</version>
+      <version>1.0.0-rc.601</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
